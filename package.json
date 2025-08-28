@@ -1,0 +1,28 @@
+{
+  "name": "for-crystal-game",
+  "version": "1.0.0",
+  "description": "一个为Crystal制作的连连看游戏 - 星河流转依如初见",
+  "main": "App.tsx",
+  "scripts": {
+    "dev": "aipa dev",
+    "build": "aipa build",
+    "start": "aipa start",
+    "preview": "aipa preview"
+  },
+  "keywords": ["react", "game", "连连看", "crystal"],
+  "author": "aipa",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
